@@ -2481,3 +2481,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Justin Lin 林詩杰](https://github.com/JustinLin65) : First Open Source Contribution
 - Deepak - India
 * [Prerak Goyal](https://github.com/PrerakGoyal)
+
+- [Jatin Patil](https://github.com/jatindevz/first-contributions)
